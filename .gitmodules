@@ -1,0 +1,3 @@
+[submodule "external/vkaEngine"]
+	path = external/vkaEngine
+	url = https://github.com/jeffw387/vkaEngine.git
